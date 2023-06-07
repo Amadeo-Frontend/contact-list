@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 export const StyledNavbar = styled.nav`
   background-color: black;
   padding: 10px 0;
+  margin: 0 auto;
 `;
 
 // eslint-disable-next-line no-undef
