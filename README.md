@@ -1,3 +1,5 @@
+<div style="display: inline_block" align="center">
+
 # HOSTED
 
 Link:- https://contact-list-olive.vercel.app/
@@ -5,7 +7,7 @@ Link:- https://contact-list-olive.vercel.app/
 
 # Getting Started with Create React App
 
- <div style="display: inline_block" align="center">
+ 
  <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="Amadeo-Styled-components" height="45" widith="45" src="https://styled-components.com/logo.png">
  <img align="center" alt="Amadeo-Bootstrap" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
