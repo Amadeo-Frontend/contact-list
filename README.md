@@ -5,7 +5,12 @@ Link:- https://contact-list-olive.vercel.app/
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <div style="display: inline_block" align="center">
+ <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/react/react-original.svg">
+ <img align="center" alt="Amadeo-Styled-components" height="45" widith="45" src="https://styled-components.com/logo.png">
+ <img align="center" alt="Amadeo-Bootstrap" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+ <img align="center" alt="Amadeo-JavaScript" height="30" width="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Amadeo-VScode" height="30" widith="40" src="https://github.com/Amadeo-Frontend/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 
 ## Available Scripts
 
