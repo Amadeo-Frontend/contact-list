@@ -3,7 +3,7 @@ import { StyledNavbar, StyledNavbarBrand } from "./styles";
 
 const Navbar = () => {
   return (
-    <StyledNavbar>
+    <StyledNavbar className="container-fluid">
       <div>
         <StyledNavbarBrand to="/">Lista de Contatos</StyledNavbarBrand>
       </div>

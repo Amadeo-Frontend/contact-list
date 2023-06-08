@@ -4,9 +4,9 @@ import { Route, Routes } from "react-router-dom";
 import { GlobalStyle } from "./styles";
 
 import Navbar from "./components/Navbar/Navbar";
-import Home from "./components/Home";
-import AddContact from "./components/AddContact";
-import EditContact from "./components/EditContact";
+import Home from "./components/Home/Home";
+import AddContact from "./components/AddContact/AddContact";
+import EditContact from "./components/EditContact/EditContact";
 import { useDispatch } from "react-redux";
 
 const App = () => {
